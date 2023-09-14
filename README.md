@@ -1,0 +1,2 @@
+# svelteFirstProject
+Learning svelte
